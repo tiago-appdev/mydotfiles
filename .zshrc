@@ -61,3 +61,5 @@ bindkey "^[[B" down-line-or-beginning-search
 
 # Created by `pipx` on 2026-04-06 21:07:23
 export PATH="$PATH:/home/tiago/.local/bin"
+
+eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv zsh)"
